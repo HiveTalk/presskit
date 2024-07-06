@@ -23,9 +23,9 @@ https://www.1001fonts.com/ibm-plex-sans-font.html
 ## Logo and other Images
 - see the images directory in this repository for SVG and higher resolution options
   
-![1](https://github.com/HiveTalk/presskit/assets/73979971/eab1c9d1-e452-45e2-b27e-3b8eaf43a8be)
+![DarkTransp_HiveTalk](https://github.com/HiveTalk/presskit/assets/73979971/6386bbd7-dab7-47fd-8af7-dee3002a7b17)
 
-![2](https://github.com/HiveTalk/presskit/assets/73979971/d48cab29-b837-43fd-9848-6fcf9e4d6748)
+![LightTransp_HiveTalk](https://github.com/HiveTalk/presskit/assets/73979971/8f523b98-55d4-45d2-ac2a-785c9d93c837)
 
 ![LightBWTransp_HiveTalk](https://github.com/HiveTalk/presskit/assets/73979971/36232a4e-1b2b-47c3-af79-c6858e84d334)
 
