@@ -1,0 +1,35 @@
+/* Coolors Exported Palette - https://coolors.co/050606-fc0393-1cd4f0-fbc122-702792 */
+
+- Tailwind
+
+{ 'black': { DEFAULT: '#050606', 100: '#010101', 200: '#020202', 300: '#030303', 400: '#040404', 500: '#050606', 600: '#323c3c', 700: '#607373', 800: '#92a4a4', 900: '#c9d2d2' }, 'magenta': { DEFAULT: '#fc0393', 100: '#32011e', 200: '#65013b', 300: '#970259', 400: '#ca0277', 500: '#fc0393', 600: '#fd35aa', 700: '#fd68bf', 800: '#fe9ad4', 900: '#fecdea' }, 'vivid_sky_blue': { DEFAULT: '#1cd4f0', 100: '#032c33', 200: '#065966', 300: '#0a8598', 400: '#0db2cb', 500: '#1cd4f0', 600: '#4bddf3', 700: '#78e5f6', 800: '#a5eef9', 900: '#d2f6fc' }, 'mikado_yellow': { DEFAULT: '#fbc122', 100: '#382901', 200: '#705302', 300: '#a87c03', 400: '#e0a505', 500: '#fbc122', 600: '#fbcd4f', 700: '#fcda7b', 800: '#fde6a7', 900: '#fef3d3' }, 'rebecca_purple': { DEFAULT: '#702792', 100: '#16081d', 200: '#2d0f3a', 300: '#431757', 400: '#591f74', 500: '#702792', 600: '#9734c5', 700: '#b264d6', 800: '#cc98e4', 900: '#e5cbf1' } }
+
+- CSV
+
+050606,fc0393,1cd4f0,fbc122,702792
+
+- With #
+
+#050606, #fc0393, #1cd4f0, #fbc122, #702792
+
+- Array
+
+["050606","fc0393","1cd4f0","fbc122","702792"]
+
+- Object
+
+{"Black":"050606","Magenta":"fc0393","Vivid sky blue":"1cd4f0","Mikado yellow":"fbc122","Rebecca purple":"702792"}
+
+- Extended Array
+
+[{"name":"Black","hex":"050606","rgb":[5,6,6],"cmyk":[17,0,0,98],"hsb":[180,17,2],"hsl":[180,9,2],"lab":[2,0,0]},{"name":"Magenta","hex":"fc0393","rgb":[252,3,147],"cmyk":[0,99,42,1],"hsb":[325,99,99],"hsl":[325,98,50],"lab":[55,85,-7]},{"name":"Vivid sky blue","hex":"1cd4f0","rgb":[28,212,240],"cmyk":[88,12,0,6],"hsb":[188,88,94],"hsl":[188,88,53],"lab":[78,-32,-26]},{"name":"Mikado yellow","hex":"fbc122","rgb":[251,193,34],"cmyk":[0,23,86,2],"hsb":[44,86,98],"hsl":[44,96,56],"lab":[81,8,78]},{"name":"Rebecca purple","hex":"702792","rgb":[112,39,146],"cmyk":[23,73,0,43],"hsb":[281,73,57],"hsl":[281,58,36],"lab":[32,49,-45]}]
+
+- XML
+
+<palette>
+  <color name="Black" hex="050606" r="5" g="6" b="6" />
+  <color name="Magenta" hex="fc0393" r="252" g="3" b="147" />
+  <color name="Vivid sky blue" hex="1cd4f0" r="28" g="212" b="240" />
+  <color name="Mikado yellow" hex="fbc122" r="251" g="193" b="34" />
+  <color name="Rebecca purple" hex="702792" r="112" g="39" b="146" />
+</palette>
