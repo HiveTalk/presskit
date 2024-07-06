@@ -15,6 +15,9 @@ https://www.1001fonts.com/ibm-plex-sans-font.html
 
 ## Color Schema
 
+- Css and hexcodes, please see directory above
+
+![hivetalk](https://github.com/HiveTalk/presskit/assets/73979971/f38e56a6-e803-48ea-a701-9be6fc585a6d)
 
 
 ## Logo and other Images
