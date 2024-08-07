@@ -1,7 +1,5 @@
 # HiveTalk Press Kit
 
-Please find images for general press use in the images directory.
-
 ## Media Coverage
 
 - [Linux Unplugged: All Your Silos are Broken](https://www.jupiterbroadcasting.com/show/linux-unplugged/568/)
@@ -23,7 +21,10 @@ https://www.1001fonts.com/ibm-plex-sans-font.html
 
 
 ## Logo and other Images
-- see the images directory in this repository for SVG and higher resolution options
+
+Please find images for general press use in the images directory on [Github](https://github.com/HiveTalk/presskit/tree/main/images).
+
+- The Github repository contains SVG and higher resolution options
   
 ![DarkTransp_HiveTalk](https://github.com/HiveTalk/presskit/assets/73979971/6386bbd7-dab7-47fd-8af7-dee3002a7b17)
 
